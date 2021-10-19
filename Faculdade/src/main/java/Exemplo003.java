@@ -12,8 +12,8 @@ public class Exemplo003 {
 		System.out.println(
 				"PASSO 2: " + x); /*
 									 * a = a – 1; // a passa a valer 4 b = b /a
-									 * ; // b é divido por a (4) e fica com 8 
-									 * c = c + 1; // c passa a valer 8
+									 * ; // b é divido por a (4) e fica com 8 c
+									 * = c + 1; // c passa a valer 8
 									 */
 		b /= a -= 1;
 		c++;
